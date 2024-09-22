@@ -59,8 +59,8 @@ fastapi-tasks-api/
 1. **Clonar el Repositorio**:
    Clona el repositorio en tu máquina local.
    ```bash
-   git clone <url-del-repositorio>
-   cd <nombre-del-repositorio>
+   git clone https://github.com/yovidev/task_API.git
+   cd task_API
 
 2. **Crear un Archivo .env: Crea un archivo .env en la raíz del proyecto y define las siguientes variables**:
 
